@@ -7,3 +7,4 @@ Solving daily — building toward Google.
 | # | Problem | Difficulty | Time | Space |
 |---|---------|-----------|------|-------|
 | 1 | [Two Sum](easy/001_two_sum.py) | Easy ✅ | O(n) | O(n) |
+| 2 | Valid Parentheses | Easy ✅ | O(n) | O(n) |
