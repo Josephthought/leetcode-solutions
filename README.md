@@ -11,3 +11,4 @@ Solving daily — building toward Google.
 | 3 | contains Duplicate | Easy ✅ | 0(n) | 0(n) |
 | 4 | Valid Anagram | Easy ✅ | 0(n) | O(n) |
 | 5 | Best Time to Buy and Sell Stock | Easy ✅ | 0(n) | 0(1)
+| 6 |valid Palindrome | easy ✅ | 0(n) | 0(n)
