@@ -2,7 +2,7 @@
 
 Solving daily — building toward Google.
 
-## Progress: 5 / 75 Easy
+## Progress: 6 / 75 Easy
 
 | # | Problem | Difficulty | Time | Space |
 |---|---------|-----------|------|-------|
