@@ -12,4 +12,5 @@ Solving daily — building toward Google.
 | 4 | Valid Anagram | Easy ✅ | 0(n) | O(n) |
 | 5 | Best Time to Buy and Sell Stock | Easy ✅ | 0(n) | 0(1)
 | 6 |valid Palindrome | easy ✅ | 0(n) | 0(n)
-| 7 | Merg Two Sorted Lists | Easy ✅ | 0(m + n) | 0(1)
+| 7 | Merge Two Sorted Lists | Easy ✅ | 0(m + n) | 0(1)
+| 8 | Reverse Linked List | Easy ✅ | 0(n) | 0(1)
