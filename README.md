@@ -2,7 +2,7 @@
 
 Solving daily — building toward Google.
 
-## Progress: 8 / 75 Easy
+## Progress: 9 / 75 Easy
 
 | # | Problem | Difficulty | Time | Space |
 |---|---------|-----------|------|-------|
@@ -14,3 +14,4 @@ Solving daily — building toward Google.
 | 6 |valid Palindrome | easy ✅ | 0(n) | 0(n)
 | 7 | Merge Two Sorted Lists | Easy ✅ | 0(m + n) | 0(1)
 | 8 | Reverse Linked List | Easy ✅ | 0(n) | 0(1)
+| 9 | Binary Search | Easy ✅ 0(log n) | 0(1)
