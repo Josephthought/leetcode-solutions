@@ -1,17 +1,38 @@
-# LeetCode Solutions 🧠
+# 🚀 Joseph's LeetCode Journey
 
-Solving daily — building toward Google.
+## Progress
 
-## Progress: 9 / 75 Easy
+- ✅ Solved: 9 / 75 Easy
+- 🎯 Current Goal: Finish all 75 Easy problems
+- 📅 Started: April 2026
 
-| # | Problem | Difficulty | Time | Space |
-|---|---------|-----------|------|-------|
-| 1 | Two Sum | Easy ✅ | O(n) | 0(n) |
-| 2 | Valid Parentheses | Easy ✅ | 0(n) | O(n) |
-| 3 | contains Duplicate | Easy ✅ | 0(n) | 0(n) |
-| 4 | Valid Anagram | Easy ✅ | 0(n) | O(n) |
-| 5 | Best Time to Buy and Sell Stock | Easy ✅ | 0(n) | 0(1)
-| 6 |valid Palindrome | easy ✅ | 0(n) | 0(n)
-| 7 | Merge Two Sorted Lists | Easy ✅ | 0(m + n) | 0(1)
-| 8 | Reverse Linked List | Easy ✅ | 0(n) | 0(1)
-| 9 | Binary Search | Easy ✅ 0(log n) | 0(1)
+---
+
+## ✅ Solved Problems
+
+1. Two Sum
+2. Valid Parentheses
+3. Contains Duplicate
+4. Valid Anagram
+5. Best Time to Buy and Sell Stock
+6. Valid Palindrome
+7. Merge Two Sorted Lists
+8. Reverse Linked List
+9. Binary Search
+
+---
+
+## 🧠 Patterns Learned
+
+- Hash Map
+- Hash Set
+- Stack
+- Two Pointers
+- Linked List
+- Binary Search
+
+---
+
+## 🎯 Next Pattern
+
+Sliding Window
