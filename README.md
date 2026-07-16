@@ -2,7 +2,7 @@
 
 ## Progress
 
-- ✅ Solved: 9 / 75 Easy
+- ✅ Solved: 10 / 75 Easy
 - 🎯 Current Goal: Finish all 75 Easy problems
 - 📅 Started: April 2026
 
@@ -19,6 +19,7 @@
 7. Merge Two Sorted Lists
 8. Reverse Linked List
 9. Binary Search
+10. Maximum Subarray
 
 ---
 
@@ -30,9 +31,6 @@
 - Two Pointers
 - Linked List
 - Binary Search
+- Kadane's Algorithm (Dynamic Programming)
 
 ---
-
-## 🎯 Next Pattern
-
-Sliding Window
