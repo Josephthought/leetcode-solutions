@@ -6,7 +6,7 @@
 - 🎯 Current Goal: Finish all 75 Easy problems
 - 📅 Started: April 2026
 
----
+
 
 ## ✅ Solved Problems
 
@@ -33,4 +33,15 @@
 - Binary Search
 - Kadane's Algorithm (Dynamic Programming)
 
----
+## ✅ Solved Problems
+
+1. [Two Sum](Problems/001-Two-Sum.md)
+2. [Valid Parentheses](Problems/002-Valid-Parentheses.md)
+3. [Contains Duplicate](Problems/003-Contains-Duplicate.md)
+4. [Valid Anagram](Problems/004-Valid-Anagram.md)
+5. [Best Time to Buy and Sell Stock](Problems/005-Best-Time-to-Buy-and-Sell-Stock.md)
+6. [Valid Palindrome](Problems/006-Valid-Palindrome.md)
+7. [Merge Two Sorted Lists](Problems/007-Merge-Two-Sorted-Lists.md)
+8. [Reverse Linked List](Problems/008-Reverse-Linked-List.md)
+9. [Binary Search](Problems/009-Binary-Search.md)
+10. [Maximum Subarray](Problems/053-Maximum-Subarray.md)
