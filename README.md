@@ -2,7 +2,7 @@
 
 ## Progress
 
-- ✅ Solved: 10 / 75 Easy
+- ✅ Solved: 11 / 75 Easy
 - 🎯 Current Goal: Finish all 75 Easy problems
 - 📅 Started: April 2026
 
@@ -20,6 +20,7 @@
 8. Reverse Linked List
 9. Binary Search
 10. Maximum Subarray
+11.single Number
 
 ---
 
@@ -45,3 +46,4 @@
 8. [Reverse Linked List](Problems/008-Reverse-Linked-List.md)
 9. [Binary Search](Problems/009-Binary-Search.md)
 10. [Maximum Subarray](Problems/053-Maximum-Subarray.md)
+11. [Single Number](Problems/010-Single-Number.md)
