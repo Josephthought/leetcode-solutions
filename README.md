@@ -20,7 +20,9 @@
 8. Reverse Linked List
 9. Binary Search
 10. Maximum Subarray
-11.single Number
+11. single Number
+12. Move Zeroes
+ 
 
 ---
 
@@ -47,3 +49,4 @@
 9. [Binary Search](Problems/009-Binary-Search.md)
 10. [Maximum Subarray](Problems/053-Maximum-Subarray.md)
 11. [Single Number](Problems/010-Single-Number.md)
+12. [Move Zeroes](Problems/011-Move-Zeroes.md)
