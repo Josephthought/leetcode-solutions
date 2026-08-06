@@ -2,7 +2,7 @@
 
 ## Progress
 
-- ✅ Solved: 11 / 75 Easy
+- ✅ Solved: 14 / 75 Easy
 - 🎯 Current Goal: Finish all 75 Easy problems
 - 📅 Started: April 2026
 
@@ -22,7 +22,8 @@
 10. Maximum Subarray
 11. single Number
 12. Move Zeroes
- 
+13. Two Sum II
+14. Climbing Stairs
 
 ---
 
@@ -35,6 +36,7 @@
 - Linked List
 - Binary Search
 - Kadane's Algorithm (Dynamic Programming)
+- Dyanamic programming (Fibonacci)
 
 ## ✅ Solved Problems
 
@@ -47,6 +49,8 @@
 7. [Merge Two Sorted Lists](Problems/007-Merge-Two-Sorted-Lists.md)
 8. [Reverse Linked List](Problems/008-Reverse-Linked-List.md)
 9. [Binary Search](Problems/009-Binary-Search.md)
-10. [Maximum Subarray](Problems/053-Maximum-Subarray.md)
-11. [Single Number](Problems/010-Single-Number.md)
-12. [Move Zeroes](Problems/011-Move-Zeroes.md)
+10. [Maximum Subarray](Problems/010-Maximum-Subarray.md)
+11. [Single Number](Problems/011-Single-Number.md)
+12. [Move Zeroes](Problems/012-Move-Zeroes.md)
+13. [Two Sum II - Input Array Is Sorted](Problems/013-Two-Sum-II.md)
+14. [Climbing Stairs](Problems/014-Climbing-Stairs.md)
