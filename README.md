@@ -2,7 +2,7 @@
 
 ## Progress
 
-- ✅ Solved: 14 / 75 Easy
+- ✅ Solved: 15 / 75 Easy
 - 🎯 Current Goal: Finish all 75 Easy problems
 - 📅 Started: April 2026
 
@@ -54,6 +54,7 @@
 12. [Move Zeroes](Problems/012-Move-Zeroes.md)
 13. [Two Sum II - Input Array Is Sorted](Problems/013-Two-Sum-II.md)
 14. [Climbing Stairs](Problems/014-Climbing-Stairs.md)
+15. [Majority Element](Problems/015-Majority-Element.md)
 16. [Best Time to Buy and Sell Stock II](Problems/016-Best-Time-to-Buy-and-Sell-Stock-II.md)
 17. [Linked List Cycle](Problems/017-Linked-List-Cycle.md)
 18. [Middle of the Linked List](Problems/018-Middle-of-the-Linked-List.md)
