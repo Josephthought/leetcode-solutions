@@ -58,3 +58,4 @@
 16. [Best Time to Buy and Sell Stock II](Problems/016-Best-Time-to-Buy-and-Sell-Stock-II.md)
 17. [Linked List Cycle](Problems/017-Linked-List-Cycle.md)
 18. [Middle of the Linked List](Problems/018-Middle-of-the-Linked-List.md)
+19. [Contains Duplicate II](Problems/019-Contains-Duplicate-II.md)
