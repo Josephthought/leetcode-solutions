@@ -59,3 +59,4 @@
 17. [Linked List Cycle](Problems/017-Linked-List-Cycle.md)
 18. [Middle of the Linked List](Problems/018-Middle-of-the-Linked-List.md)
 19. [Contains Duplicate II](Problems/019-Contains-Duplicate-II.md)
+20. [Reverse Bits](Problems/020-Reverse-Bits.md)
