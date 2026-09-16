@@ -60,3 +60,5 @@
 18. [Middle of the Linked List](Problems/018-Middle-of-the-Linked-List.md)
 19. [Contains Duplicate II](Problems/019-Contains-Duplicate-II.md)
 20. [Reverse Bits](Problems/020-Reverse-Bits.md)
+21. [Pascal's Triangle](Problems/021-Pascals-Triangle.md)
+22. [Baseball Game](Problems/022-Baseball-Game.md)
