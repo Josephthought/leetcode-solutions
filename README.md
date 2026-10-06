@@ -62,3 +62,4 @@
 20. [Reverse Bits](Problems/020-Reverse-Bits.md)
 21. [Pascal's Triangle](Problems/021-Pascals-Triangle.md)
 22. [Baseball Game](Problems/022-Baseball-Game.md)
+24. [N-th Tribonacci Number](Problems/024-N-th-Tribonacci-Number.md)
