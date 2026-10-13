@@ -2,7 +2,7 @@
 
 ## Progress
 
-- ✅ Solved: 22 / 75 Easy
+- ✅ Solved: 23 / 75 Easy
 - 🎯 Current Goal: Finish all 75 Easy problems
 - 📅 Started: April 2026
 
